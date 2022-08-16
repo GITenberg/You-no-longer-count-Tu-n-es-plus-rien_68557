@@ -1,0 +1,45 @@
+_repo: You-no-longer-count-Tu-n-es-plus-rien_68557
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Houghton, Louise Seymour
+    alias: Houghton, Louise S. (Louise Seymour)
+    birthdate: 1838
+    deathdate: 1920
+    gutenberg_agent_id: '8250'
+    url: http://www.gutenberg.org/2009/agents/8250
+creator:
+  author:
+    agent_name: Boylesve, René
+    aliases:
+    - Tardivaux, René
+    - Boylesve, Rene
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '8323'
+    url: http://www.gutenberg.org/2009/agents/8323
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68557'
+  lccn: '18010962'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/007652561
+pgterms:marc905: 20220518072934boylesve
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: United States :C. Scribner's Sons,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: You no longer count (Tu n'es plus rien!)
+url: http://www.gutenberg.org/ebooks/68557
