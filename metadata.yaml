@@ -8,6 +8,9 @@ contributor:
     deathdate: 1920
     gutenberg_agent_id: '8250'
     url: http://www.gutenberg.org/2009/agents/8250
+covers:
+- cover_type: archival
+  image_path: 68557-h/images/no_longer_cover.jpg
 creator:
   author:
     agent_name: Boylesve, René
@@ -22,6 +25,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Boylesve
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Boylesve
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68557#You-no-longer-count-Tu-n-es-plus-rien
 gutenberg_issued: '2022-07-18'
 identifiers:
   gutenberg: '68557'
